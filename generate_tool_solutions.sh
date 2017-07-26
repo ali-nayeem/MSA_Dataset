@@ -3,7 +3,7 @@
 cd "$(dirname "$0")"
 
 input="input.fasta"
-dataset_list="R11 R12"
+dataset_list="R16 R17 R18 R19"
 path="./100S"
 
 script_dir=`pwd`
